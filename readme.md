@@ -1,7 +1,7 @@
 Copperjet
 =========
 
-A couple of script to managen my copperjet ADSL modem.
+A couple of script to manage my copperjet ADSL modem.
 Configuration settings are in the scripts.
 
 * reboot-modem.rb: Reboots the modem.
