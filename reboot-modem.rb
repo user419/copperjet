@@ -11,10 +11,6 @@ user     = "user"
 pass     = "user"
 
 ##
-#  When do we want it?
-##
-
-##
 #  How do we get it?
 ##
 
@@ -44,4 +40,3 @@ if reboot(modem_ip, user, pass)
 else
   puts "Reboot did not start"
 end
-
